@@ -156,3 +156,17 @@
   margin-top: 30px;
   height: 30px;
 }
+@media (max-width: 500px) {
+  .container form {
+    width: 350px;
+  }
+  .container .card-container {
+    width: 340px;
+  }
+  .flexbox {
+    display: inline-block;
+  }
+ .container {
+  padding: 0 20px;
+ }
+}
